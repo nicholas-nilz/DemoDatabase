@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Database</string>
+    <string name="insert">INSERT</string>
+    <string name="GetTasks">GET TASKS</string>
+    <string name="tvResults"></string>
+    <string name="lv"></string>
+    <string name="editDesc"></string>
+    <string name="editDate"></string>
+</resources>
